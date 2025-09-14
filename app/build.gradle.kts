@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "it.codexplo.app_alpha_mobile_utility_basiccalculator_001"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "it.codexplo.app_alpha_mobile_utility_basiccalculator_001"
