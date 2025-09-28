@@ -7,3 +7,6 @@
 - **BasicCalculator** → describes the main functionality of the application: a basic calculator.
 - **001** → first unique identifier, used to differentiate this version from future releases.
 
+## Preview
+
+![Mockup da Calculadora](./figma/project.jpg)
